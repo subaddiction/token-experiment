@@ -6,7 +6,7 @@ In questa simulazione creiamo un token che rappresenterebbe un coupon valido per
 
 Eventuali condizioni di utilizzo possono essere pubblicate separatamente oppure in modo indelebile sulla chain ETH(rinkeby) inserendole nella transazione di creazione del token.
 
-L'idea di base in questo gioco e' quella di creare un TOKEN da distribuire come coupon sconto o da vendere in una o piu' ICOper finanziare un progetto o una serie di progetti.
+L'idea di base in questo gioco e' quella di creare un TOKEN da distribuire come coupon sconto, oppure da vendere in una o piu' ICO per finanziare un progetto o una serie di progetti.
 
 Questo esperimento puo' essere usato come materiale educativo e di training sulle criptovalute.
 
@@ -48,12 +48,20 @@ https://metamask.io/
 
 2.1) Creare account e collegarsi a "Rinkeby test Network"
 
-2.2) In Entrare in "Buy" e seguire le istruzioni per farsi accreditare ETH di test
+2.2) Entrare in "Buy" e seguire le istruzioni per farsi accreditare ETH di test
 
 
 3) Entrare nel wallet ethereum https://wallet.ethereum.org (si collega all'account metamask automaticamente)
 
-3.1) In "Contracts" > "Costom Token" > "Watch token" inserire indirizzo contratto TOKEN 0x3815f6bBEc9331b31650a0f31C19e076F6bEF5b4 > OK
+3.1) Entrare in "Contracts"
+
+-> "Custom Token"
+
+-> "Watch token"
+
+inserire indirizzo contratto TOKEN <b>0x3815f6bBEc9331b31650a0f31C19e076F6bEF5b4</b>
+
+-> OK
 
 
 4) Controllare disponibilita' di token in vendita:
