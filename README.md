@@ -12,7 +12,7 @@ Questo esperimento puo' essere usato come materiale educativo e di training sull
 
 -----
 
-Dati token:
+<b>Dati token:</b>
 
 
 Simbolo: GRIT
